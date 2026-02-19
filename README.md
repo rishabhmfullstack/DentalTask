@@ -58,12 +58,11 @@ This project was developed with the assistance of an AI coding agent (Antigravit
 
 ## 🔗 Live Deployments
 *URLs will be added here after deployment*
-- Frontend: [Link]
-- Backend: [Link]
-- DB: [Link]
+- Frontend: [https://dental-task.vercel.app/login]
+- Backend: [https://dentaltask.onrender.com]
+- DB: [https://supabase.com/dashboard/project/jkwbtcbrfqmuuhpekmbr/database/tables]
 
-Email: test10@example.com
-Password: password123
+Login credentails 
 
 "email": "testtest10@example.com",
 "password": "mypassword123"
