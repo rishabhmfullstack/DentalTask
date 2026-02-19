@@ -64,3 +64,7 @@ This project was developed with the assistance of an AI coding agent (Antigravit
 
 Email: test10@example.com
 Password: password123
+
+"email": "testtest10@example.com",
+"password": "mypassword123"
+
