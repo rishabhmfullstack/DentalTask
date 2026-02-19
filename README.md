@@ -67,3 +67,8 @@ Login credentails
 "email": "testtest10@example.com",
 "password": "mypassword123"
 
+DATABASE_URL = "postgresql://postgres.jkwbtcbrfqmuuhpekmbr:rishabhmfullstack@aws-1-ap-south-1.pooler.supabase.com:5432/postgres"
+JWT_SECRET="supersecret_jwt_key_change_me_in_prod"
+PORT=3000
+AI_SERVICE_URL="https://dentaltask-1.onrender.com"
+
